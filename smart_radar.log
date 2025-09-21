@@ -1,0 +1,426 @@
+2025-09-21 15:23:35,298 - INFO - 历史学习数据加载成功
+2025-09-21 15:23:35,298 - INFO - SmartNewsRadar v1.0.0 启动
+2025-09-21 15:23:35,298 - INFO - 开始获取新闻数据...
+2025-09-21 15:23:36,662 - INFO - 成功获取 今日头条 30 条新闻
+2025-09-21 15:23:38,140 - INFO - 成功获取 百度热搜 30 条新闻
+2025-09-21 15:23:39,595 - INFO - 成功获取 微博热搜 30 条新闻
+2025-09-21 15:23:41,255 - INFO - 成功获取 知乎热榜 20 条新闻
+2025-09-21 15:23:42,254 - INFO - 成功获取 抖音热搜 30 条新闻
+2025-09-21 15:23:43,505 - INFO - 成功获取 B站热搜 30 条新闻
+2025-09-21 15:23:44,489 - INFO - 成功获取 华尔街见闻 10 条新闻
+2025-09-21 15:23:45,471 - INFO - 成功获取 澎湃新闻 20 条新闻
+2025-09-21 15:23:45,973 - INFO - 共获取到 200 条新闻
+2025-09-21 15:23:45,974 - INFO - 开始分析关键词...
+2025-09-21 15:23:45,977 - INFO - 使用自适应学习权重: {'frequency_weight': 0.375, 'trend_weight': 0.407, 'sentiment_weight': 0.217}
+2025-09-21 15:23:45,983 - INFO - 权重调整: {'frequency_weight': 0.375, 'trend_weight': 0.407, 'sentiment_weight': 0.217} -> {'frequency_weight': 0.37, 'trend_weight': 0.415, 'sentiment_weight': 0.215}
+2025-09-21 15:23:45,985 - INFO - 学习数据保存成功
+2025-09-21 15:23:45,985 - INFO - 学习引擎分析完成，更新权重: {'frequency_weight': 0.37, 'trend_weight': 0.415, 'sentiment_weight': 0.215}
+2025-09-21 15:23:45,986 - INFO - 自动发现 25 个关键词
+2025-09-21 15:23:45,986 - INFO - 生成报告...
+2025-09-21 15:23:45,988 - INFO - 报告已生成: output/smart_radar_20250921_152345.html, output/smart_radar_20250921_152345.json
+2025-09-21 15:23:45,988 - INFO - 通知功能未启用
+2025-09-21 15:23:45,989 - INFO - 学习报告已生成: output/learning_report_20250921_152345.json
+2025-09-21 15:29:47,446 - INFO - 历史学习数据加载成功
+2025-09-21 15:29:47,447 - INFO - SmartNewsRadar v1.0.0 启动
+2025-09-21 15:29:47,447 - INFO - 开始获取新闻数据...
+2025-09-21 15:29:48,921 - INFO - 成功获取 今日头条 30 条新闻
+2025-09-21 15:29:51,004 - INFO - 成功获取 百度热搜 30 条新闻
+2025-09-21 15:29:52,353 - INFO - 成功获取 微博热搜 30 条新闻
+2025-09-21 15:29:53,615 - INFO - 成功获取 知乎热榜 20 条新闻
+2025-09-21 15:29:54,590 - INFO - 成功获取 抖音热搜 30 条新闻
+2025-09-21 15:29:56,570 - INFO - 成功获取 B站热搜 30 条新闻
+2025-09-21 15:29:57,529 - INFO - 成功获取 华尔街见闻 10 条新闻
+2025-09-21 15:29:58,525 - INFO - 成功获取 澎湃新闻 20 条新闻
+2025-09-21 15:29:59,026 - INFO - 共获取到 200 条新闻
+2025-09-21 15:29:59,026 - INFO - 开始分析关键词...
+2025-09-21 15:29:59,029 - INFO - 使用自适应学习权重: {'frequency_weight': 0.37, 'trend_weight': 0.415, 'sentiment_weight': 0.215}
+2025-09-21 15:29:59,037 - INFO - 权重调整: {'frequency_weight': 0.37, 'trend_weight': 0.415, 'sentiment_weight': 0.215} -> {'frequency_weight': 0.365, 'trend_weight': 0.421, 'sentiment_weight': 0.214}
+2025-09-21 15:29:59,038 - INFO - 学习数据保存成功
+2025-09-21 15:29:59,038 - INFO - 学习引擎分析完成，更新权重: {'frequency_weight': 0.365, 'trend_weight': 0.421, 'sentiment_weight': 0.214}
+2025-09-21 15:29:59,038 - INFO - 自动发现 50 个关键词
+2025-09-21 15:29:59,038 - INFO - 生成报告...
+2025-09-21 15:29:59,040 - INFO - 报告已生成: output/smart_radar_20250921_152959.html, output/smart_radar_20250921_152959.json
+2025-09-21 15:29:59,040 - INFO - 通知功能未启用
+2025-09-21 15:29:59,040 - INFO - 学习报告已生成: output/learning_report_20250921_152959.json
+2025-09-21 15:30:44,962 - INFO - 历史学习数据加载成功
+2025-09-21 15:30:44,963 - INFO - SmartNewsRadar v1.0.0 启动
+2025-09-21 15:30:44,963 - INFO - 开始获取新闻数据...
+2025-09-21 15:30:47,070 - INFO - 成功获取 今日头条 30 条新闻
+2025-09-21 15:30:48,346 - INFO - 成功获取 百度热搜 30 条新闻
+2025-09-21 15:30:49,342 - INFO - 成功获取 微博热搜 30 条新闻
+2025-09-21 15:30:51,386 - INFO - 成功获取 知乎热榜 20 条新闻
+2025-09-21 15:30:52,370 - INFO - 成功获取 抖音热搜 30 条新闻
+2025-09-21 15:30:53,743 - INFO - 成功获取 B站热搜 30 条新闻
+2025-09-21 15:30:54,697 - INFO - 成功获取 华尔街见闻 10 条新闻
+2025-09-21 15:30:56,461 - INFO - 成功获取 澎湃新闻 20 条新闻
+2025-09-21 15:30:56,962 - INFO - 共获取到 200 条新闻
+2025-09-21 15:30:56,963 - INFO - 开始分析关键词...
+2025-09-21 15:30:56,966 - INFO - 使用自适应学习权重: {'frequency_weight': 0.365, 'trend_weight': 0.421, 'sentiment_weight': 0.214}
+2025-09-21 15:30:56,974 - INFO - 权重调整: {'frequency_weight': 0.365, 'trend_weight': 0.421, 'sentiment_weight': 0.214} -> {'frequency_weight': 0.361, 'trend_weight': 0.425, 'sentiment_weight': 0.214}
+2025-09-21 15:30:56,975 - INFO - 学习数据保存成功
+2025-09-21 15:30:56,975 - INFO - 学习引擎分析完成，更新权重: {'frequency_weight': 0.361, 'trend_weight': 0.425, 'sentiment_weight': 0.214}
+2025-09-21 15:30:56,975 - INFO - 自动发现 50 个关键词
+2025-09-21 15:30:56,975 - INFO - 生成报告...
+2025-09-21 15:30:56,978 - INFO - 报告已生成: output/smart_radar_20250921_153056.html, output/smart_radar_20250921_153056.json
+2025-09-21 15:30:56,978 - INFO - 通知功能未启用
+2025-09-21 15:30:56,978 - INFO - 学习报告已生成: output/learning_report_20250921_153056.json
+2025-09-21 15:41:39,965 - INFO - SmartNewsRadar v1.0.0 启动
+2025-09-21 15:41:39,965 - INFO - 开始获取新闻数据...
+2025-09-21 15:41:43,333 - INFO - 成功获取 今日头条 30 条新闻
+2025-09-21 15:41:45,701 - INFO - 成功获取 百度热搜 30 条新闻
+2025-09-21 15:41:46,929 - INFO - 成功获取 微博热搜 30 条新闻
+2025-09-21 15:41:48,033 - INFO - 成功获取 知乎热榜 20 条新闻
+2025-09-21 15:41:49,860 - INFO - 成功获取 抖音热搜 30 条新闻
+2025-09-21 15:41:51,156 - INFO - 成功获取 B站热搜 30 条新闻
+2025-09-21 15:41:52,148 - INFO - 成功获取 华尔街见闻 10 条新闻
+2025-09-21 15:41:54,413 - INFO - 成功获取 澎湃新闻 20 条新闻
+2025-09-21 15:41:54,914 - INFO - 共获取到 200 条新闻
+2025-09-21 15:41:54,915 - INFO - 开始分析关键词...
+2025-09-21 15:41:54,917 - INFO - 使用自适应学习权重: {'frequency_weight': 0.4, 'trend_weight': 0.4, 'sentiment_weight': 0.2}
+2025-09-21 15:41:54,927 - INFO - 权重调整: {'frequency_weight': 0.4, 'trend_weight': 0.4, 'sentiment_weight': 0.2} -> {'frequency_weight': 0.393, 'trend_weight': 0.393, 'sentiment_weight': 0.213}
+2025-09-21 15:41:54,928 - INFO - 学习数据保存成功
+2025-09-21 15:41:54,928 - INFO - 学习引擎分析完成，更新权重: {'frequency_weight': 0.393, 'trend_weight': 0.393, 'sentiment_weight': 0.213}
+2025-09-21 15:41:54,928 - INFO - 自动发现 50 个关键词
+2025-09-21 15:41:54,929 - INFO - 生成报告...
+2025-09-21 15:41:54,930 - INFO - 报告已生成: output/smart_radar_20250921_154154.html, output/smart_radar_20250921_154154.json
+2025-09-21 15:41:54,931 - INFO - 通知功能未启用
+2025-09-21 15:41:54,931 - INFO - 学习报告已生成: output/learning_report_20250921_154154.json
+2025-09-21 15:43:59,278 - INFO - 历史学习数据加载成功
+2025-09-21 15:43:59,279 - INFO - SmartNewsRadar v1.0.0 启动
+2025-09-21 15:43:59,279 - INFO - 开始获取新闻数据...
+2025-09-21 15:44:00,938 - INFO - 成功获取 今日头条 30 条新闻
+2025-09-21 15:44:01,932 - INFO - 成功获取 百度热搜 30 条新闻
+2025-09-21 15:44:07,206 - INFO - 成功获取 微博热搜 30 条新闻
+2025-09-21 15:44:08,551 - INFO - 成功获取 知乎热榜 20 条新闻
+2025-09-21 15:44:09,516 - INFO - 成功获取 抖音热搜 30 条新闻
+2025-09-21 15:44:11,693 - INFO - 成功获取 B站热搜 30 条新闻
+2025-09-21 15:44:12,660 - INFO - 成功获取 华尔街见闻 10 条新闻
+2025-09-21 15:44:13,640 - INFO - 成功获取 澎湃新闻 20 条新闻
+2025-09-21 15:44:14,141 - INFO - 共获取到 200 条新闻
+2025-09-21 15:44:14,141 - INFO - 开始分析关键词...
+2025-09-21 15:44:14,144 - INFO - 使用自适应学习权重: {'frequency_weight': 0.393, 'trend_weight': 0.393, 'sentiment_weight': 0.213}
+2025-09-21 15:44:14,152 - INFO - 权重调整: {'frequency_weight': 0.393, 'trend_weight': 0.393, 'sentiment_weight': 0.213} -> {'frequency_weight': 0.387, 'trend_weight': 0.387, 'sentiment_weight': 0.225}
+2025-09-21 15:44:14,157 - INFO - 学习数据保存成功
+2025-09-21 15:44:14,158 - INFO - 学习引擎分析完成，更新权重: {'frequency_weight': 0.387, 'trend_weight': 0.387, 'sentiment_weight': 0.225}
+2025-09-21 15:44:14,158 - INFO - 自动发现 50 个关键词
+2025-09-21 15:44:14,158 - INFO - 生成报告...
+2025-09-21 15:44:14,161 - INFO - 报告已生成: output/smart_radar_20250921_154414.html, output/smart_radar_20250921_154414.json
+2025-09-21 15:44:14,161 - INFO - 通知功能未启用
+2025-09-21 15:44:14,162 - INFO - 学习报告已生成: output/learning_report_20250921_154414.json
+2025-09-21 15:53:27,366 - INFO - 历史学习数据加载成功
+2025-09-21 15:56:15,529 - INFO - 历史学习数据加载成功
+2025-09-21 15:57:20,913 - INFO - 历史学习数据加载成功
+2025-09-21 15:57:21,032 - INFO - SmartNewsRadar v1.0.0 启动
+2025-09-21 15:57:21,033 - INFO - 开始获取新闻数据...
+2025-09-21 15:57:21,917 - ERROR - Web Scraper - CNBeta 请求失败: Cannot connect to host www.cnbeta.com:443 ssl:default [getaddrinfo failed]
+2025-09-21 15:57:21,917 - ERROR - RSS - CNBeta 请求失败: Cannot connect to host www.cnbeta.com:443 ssl:default [getaddrinfo failed]
+2025-09-21 15:57:22,082 - ERROR - RSS - 财新网 请求失败: Cannot connect to host rss.caixin.com:80 ssl:default [getaddrinfo failed]
+2025-09-21 15:57:22,173 - ERROR - RSS - IT之家科技 请求失败: Cannot connect to host rss.ithome.com:443 ssl:default [getaddrinfo failed]
+2025-09-21 15:57:22,191 - WARNING - NewNow API - 光华喜 返回状态码: 500
+2025-09-21 15:57:22,330 - WARNING - NewNow API - 快手热搜 返回状态码: 500
+2025-09-21 15:57:22,331 - WARNING - NewNow API - 36氪 返回状态码: 500
+2025-09-21 15:57:22,395 - INFO - NewNow API - 雪球: 30 条新闻
+2025-09-21 15:57:22,532 - INFO - NewNow API - IT之家: 30 条新闻
+2025-09-21 15:57:22,685 - INFO - NewNow API - 酷安社区: 20 条新闻
+2025-09-21 15:57:22,686 - INFO - NewNow API - 参考消息: 30 条新闻
+2025-09-21 15:57:22,789 - INFO - RSS - 新浪头条: 1 条新闻
+2025-09-21 15:57:22,923 - INFO - NewNow API - V2EX: 30 条新闻
+2025-09-21 15:57:23,008 - INFO - NewNow API - 虫部落: 30 条新闻
+2025-09-21 15:57:23,024 - INFO - NewNow API - Hacker News: 30 条新闻
+2025-09-21 15:57:23,045 - INFO - NewNow API - 今日头条: 30 条新闻
+2025-09-21 15:57:23,126 - WARNING - RSS - 网易科技 返回状态码: 404
+2025-09-21 15:57:23,138 - INFO - NewNow API - 市场新闻: 0 条新闻
+2025-09-21 15:57:23,266 - INFO - NewNow API - 联合早报: 30 条新闻
+2025-09-21 15:57:23,266 - INFO - NewNow API - 百度贴吧: 30 条新闻
+2025-09-21 15:57:23,361 - INFO - NewNow API - 格隆汇: 15 条新闻
+2025-09-21 15:57:23,399 - INFO - NewNow API - 澎湃新闻: 20 条新闻
+2025-09-21 15:57:23,434 - INFO - NewNow API - 牛客网: 21 条新闻
+2025-09-21 15:57:23,722 - INFO - NewNow API - 远景论坛: 20 条新闻
+2025-09-21 15:57:23,764 - INFO - NewNow API - 微博热搜: 30 条新闻
+2025-09-21 15:57:23,823 - INFO - RSS - 网易新闻: 0 条新闻
+2025-09-21 15:57:24,009 - INFO - NewNow API - 考普网: 30 条新闻
+2025-09-21 15:57:24,180 - INFO - NewNow API - 虎扑社区: 30 条新闻
+2025-09-21 15:57:24,188 - INFO - NewNow API - 抖音热搜: 30 条新闻
+2025-09-21 15:57:24,205 - WARNING - NewNow API - 什么值得买 返回状态码: 500
+2025-09-21 15:57:24,209 - INFO - NewNow API - 少数派: 30 条新闻
+2025-09-21 15:57:24,210 - INFO - NewNow API - 华尔街见闻: 10 条新闻
+2025-09-21 15:57:24,328 - INFO - Web Scraper - 爱范儿: 0 条新闻
+2025-09-21 15:57:24,421 - INFO - Web Scraper - 人民网: 0 条新闻
+2025-09-21 15:57:24,477 - INFO - RSS - 新浪新闻: 15 条新闻
+2025-09-21 15:57:24,524 - INFO - Web Scraper - 东方财富网: 0 条新闻
+2025-09-21 15:57:24,534 - INFO - NewNow API - GitHub趋势: 17 条新闻
+2025-09-21 15:57:24,733 - INFO - NewNow API - 百度热搜: 30 条新闻
+2025-09-21 15:57:24,737 - INFO - NewNow API - Solidot: 20 条新闻
+2025-09-21 15:57:24,781 - WARNING - RSS - 央视新闻 返回状态码: 404
+2025-09-21 15:57:24,797 - WARNING - RSS - 界面新闻 返回状态码: 404
+2025-09-21 15:57:24,888 - INFO - RSS - 搜狐新闻: 30 条新闻
+2025-09-21 15:57:25,228 - WARNING - RSS - 中国经济周刊 返回状态码: 404
+2025-09-21 15:57:25,230 - INFO - NewNow API - 财联社: 20 条新闻
+2025-09-21 15:57:25,413 - INFO - Web Scraper - 新华网: 0 条新闻
+2025-09-21 15:57:25,413 - WARNING - Web Scraper - 澎湃新闻 返回状态码: 403
+2025-09-21 15:57:25,526 - INFO - Web Scraper - 虎嗅: 0 条新闻
+2025-09-21 15:57:25,622 - INFO - RSS - 爱范儿: 20 条新闻
+2025-09-21 15:57:25,678 - INFO - NewNow API - 掘金: 30 条新闻
+2025-09-21 15:57:25,692 - WARNING - RSS - 金融界 返回状态码: 514
+2025-09-21 15:57:25,702 - WARNING - Web Scraper - 金融界 返回状态码: 514
+2025-09-21 15:57:25,788 - WARNING - NewNow API - Linux Do 返回状态码: 500
+2025-09-21 15:57:25,847 - INFO - Web Scraper - 凤凰网: 0 条新闻
+2025-09-21 15:57:25,870 - INFO - RSS - 少数派: 10 条新闻
+2025-09-21 15:57:25,871 - INFO - NewNow API - B站热搜: 30 条新闻
+2025-09-21 15:57:25,912 - INFO - Web Scraper - 腾讯新闻: 0 条新闻
+2025-09-21 15:57:26,013 - INFO - Web Scraper - 网易娱乐: 0 条新闻
+2025-09-21 15:57:26,155 - INFO - RSS - 南华早报: 30 条新闻
+2025-09-21 15:57:26,156 - INFO - NewNow API - 俄罗斯卫星通讯社: 20 条新闻
+2025-09-21 15:57:26,156 - WARNING - RSS - 第一财经 返回状态码: 404
+2025-09-21 15:57:26,325 - INFO - RSS - 中国日报网: 30 条新闻
+2025-09-21 15:57:26,662 - INFO - Web Scraper - 中国网: 7 条新闻
+2025-09-21 15:57:26,709 - INFO - Web Scraper - 华尔街见闻: 0 条新闻
+2025-09-21 15:57:26,855 - WARNING - RSS - 环球时报 返回状态码: 404
+2025-09-21 15:57:26,942 - INFO - Web Scraper - ELLE中文网: 0 条新闻
+2025-09-21 15:57:27,035 - INFO - RSS - 虎嗅: 10 条新闻
+2025-09-21 15:57:27,091 - INFO - Web Scraper - 界面新闻: 0 条新闻
+2025-09-21 15:57:27,195 - INFO - Web Scraper - 搜狐新闻: 0 条新闻
+2025-09-21 15:57:27,196 - INFO - RSS - 凤凰网: 0 条新闻
+2025-09-21 15:57:27,214 - INFO - NewNow API - 快牛财经: 30 条新闻
+2025-09-21 15:57:27,646 - INFO - Web Scraper - 36氪: 0 条新闻
+2025-09-21 15:57:27,854 - INFO - NewNow API - Product Hunt: 0 条新闻
+2025-09-21 15:57:28,567 - INFO - Web Scraper - 搜狐娱乐: 0 条新闻
+2025-09-21 15:57:28,922 - INFO - Web Scraper - 时光网: 0 条新闻
+2025-09-21 15:57:29,280 - INFO - Web Scraper - IT之家: 0 条新闻
+2025-09-21 15:57:29,480 - INFO - RSS - 腾讯新闻: 0 条新闻
+2025-09-21 15:57:29,825 - INFO - NewNow API - 金十数据: 15 条新闻
+2025-09-21 15:57:30,511 - INFO - RSS - 36氪: 30 条新闻
+2025-09-21 15:57:32,180 - INFO - RSS - 路透中文网: 0 条新闻
+2025-09-21 15:57:34,415 - INFO - Web Scraper - 央视新闻: 0 条新闻
+2025-09-21 15:57:37,708 - INFO - NewNow API - 凤凰网: 12 条新闻
+2025-09-21 15:57:38,628 - ERROR - RSS - 每日经济新闻 请求失败: 0, message='', url='https://www.nbd.com.cn/rss/'
+2025-09-21 15:57:44,020 - WARNING - RSS - 东方财富网 返回状态码: 404
+2025-09-21 15:57:51,040 - INFO - NewNow API - 知乎热榜: 20 条新闻
+2025-09-21 15:57:51,044 - INFO - 总共获取到 953 条新闻，来自 84 个源
+2025-09-21 15:57:51,047 - INFO - 共获取到 953 条新闻
+2025-09-21 15:57:51,048 - INFO - 开始分析关键词...
+2025-09-21 15:57:51,048 - DEBUG - Building prefix dict from the default dictionary ...
+2025-09-21 15:57:51,329 - DEBUG - Dumping model to file cache C:\Users\IT老菜鸟\AppData\Local\Temp\jieba.cache
+2025-09-21 15:57:51,358 - DEBUG - Loading model cost 0.309 seconds.
+2025-09-21 15:57:51,359 - DEBUG - Prefix dict has been built successfully.
+2025-09-21 15:57:51,632 - INFO - 使用自适应学习权重: {'frequency_weight': 0.387, 'trend_weight': 0.387, 'sentiment_weight': 0.225}
+2025-09-21 15:57:51,640 - INFO - 权重调整: {'frequency_weight': 0.387, 'trend_weight': 0.387, 'sentiment_weight': 0.225} -> {'frequency_weight': 0.382, 'trend_weight': 0.393, 'sentiment_weight': 0.225}
+2025-09-21 15:57:51,641 - INFO - 学习数据保存成功
+2025-09-21 15:57:51,642 - INFO - 学习引擎分析完成，更新权重: {'frequency_weight': 0.382, 'trend_weight': 0.393, 'sentiment_weight': 0.225}
+2025-09-21 15:57:51,642 - INFO - 自动发现 50 个关键词
+2025-09-21 15:57:51,642 - INFO - 生成报告...
+2025-09-21 15:57:51,647 - INFO - 报告已生成: output/smart_radar_20250921_155751.html, output/smart_radar_20250921_155751.json
+2025-09-21 15:57:51,647 - INFO - 通知功能未启用
+2025-09-21 15:57:51,649 - ERROR - 程序运行出错: 'AdaptiveLearningEngine' object has no attribute 'adjustment_count'
+Traceback (most recent call last):
+  File "D:\VSCode\TrendRadar\smart_radar.py", line 677, in run
+    self._display_results(keywords)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "D:\VSCode\TrendRadar\smart_radar.py", line 695, in _display_results
+    print(f"  • 权重调整次数: {self.analyzer.learning_engine.adjustment_count}")
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AdaptiveLearningEngine' object has no attribute 'adjustment_count'
+2025-09-21 16:00:09,380 - INFO - 历史学习数据加载成功
+2025-09-21 16:00:09,500 - INFO - SmartNewsRadar v1.0.0 启动
+2025-09-21 16:00:09,500 - INFO - 开始获取新闻数据...
+2025-09-21 16:00:10,270 - ERROR - RSS - 财新网 请求失败: Cannot connect to host rss.caixin.com:80 ssl:default [getaddrinfo failed]
+2025-09-21 16:00:10,544 - ERROR - Web Scraper - CNBeta 请求失败: Cannot connect to host www.cnbeta.com:443 ssl:default [getaddrinfo failed]
+2025-09-21 16:00:10,545 - ERROR - RSS - CNBeta 请求失败: Cannot connect to host www.cnbeta.com:443 ssl:default [getaddrinfo failed]
+2025-09-21 16:00:10,638 - ERROR - RSS - IT之家科技 请求失败: Cannot connect to host rss.ithome.com:443 ssl:default [getaddrinfo failed]
+2025-09-21 16:00:10,651 - WARNING - NewNow API - 光华喜 返回状态码: 500
+2025-09-21 16:00:10,660 - WARNING - NewNow API - 什么值得买 返回状态码: 500
+2025-09-21 16:00:10,671 - WARNING - NewNow API - Linux Do 返回状态码: 500
+2025-09-21 16:00:10,856 - INFO - NewNow API - 百度贴吧: 30 条新闻
+2025-09-21 16:00:10,862 - INFO - NewNow API - 少数派: 30 条新闻
+2025-09-21 16:00:10,883 - INFO - NewNow API - GitHub趋势: 17 条新闻
+2025-09-21 16:00:10,919 - WARNING - NewNow API - 36氪 返回状态码: 500
+2025-09-21 16:00:11,096 - INFO - NewNow API - 酷安社区: 20 条新闻
+2025-09-21 16:00:11,127 - INFO - NewNow API - 掘金: 30 条新闻
+2025-09-21 16:00:11,229 - INFO - RSS - 网易新闻: 0 条新闻
+2025-09-21 16:00:11,231 - INFO - NewNow API - 联合早报: 30 条新闻
+2025-09-21 16:00:11,249 - INFO - NewNow API - 虎扑社区: 30 条新闻
+2025-09-21 16:00:11,250 - INFO - NewNow API - B站热搜: 30 条新闻
+2025-09-21 16:00:11,250 - INFO - NewNow API - 市场新闻: 0 条新闻
+2025-09-21 16:00:11,285 - INFO - NewNow API - 微博热搜: 30 条新闻
+2025-09-21 16:00:11,402 - INFO - NewNow API - Hacker News: 30 条新闻
+2025-09-21 16:00:11,458 - INFO - NewNow API - 华尔街见闻: 10 条新闻
+2025-09-21 16:00:11,462 - INFO - NewNow API - 俄罗斯卫星通讯社: 20 条新闻
+2025-09-21 16:00:11,490 - INFO - NewNow API - Solidot: 20 条新闻
+2025-09-21 16:00:11,490 - INFO - NewNow API - 牛客网: 21 条新闻
+2025-09-21 16:00:11,502 - INFO - NewNow API - 雪球: 30 条新闻
+2025-09-21 16:00:11,509 - INFO - NewNow API - 百度热搜: 30 条新闻
+2025-09-21 16:00:11,514 - INFO - NewNow API - 澎湃新闻: 20 条新闻
+2025-09-21 16:00:11,723 - INFO - NewNow API - 知乎热榜: 20 条新闻
+2025-09-21 16:00:11,727 - WARNING - NewNow API - 快手热搜 返回状态码: 500
+2025-09-21 16:00:11,783 - INFO - NewNow API - 远景论坛: 20 条新闻
+2025-09-21 16:00:11,870 - WARNING - RSS - 网易科技 返回状态码: 404
+2025-09-21 16:00:11,940 - INFO - NewNow API - 参考消息: 30 条新闻
+2025-09-21 16:00:11,955 - INFO - RSS - 新浪头条: 1 条新闻
+2025-09-21 16:00:12,006 - INFO - NewNow API - Product Hunt: 0 条新闻
+2025-09-21 16:00:12,143 - INFO - Web Scraper - 腾讯新闻: 0 条新闻
+2025-09-21 16:00:12,186 - INFO - NewNow API - V2EX: 30 条新闻
+2025-09-21 16:00:12,231 - INFO - RSS - 新浪新闻: 15 条新闻
+2025-09-21 16:00:12,266 - INFO - RSS - 南华早报: 30 条新闻
+2025-09-21 16:00:12,267 - INFO - NewNow API - 虫部落: 30 条新闻
+2025-09-21 16:00:12,314 - INFO - NewNow API - 抖音热搜: 30 条新闻
+2025-09-21 16:00:12,315 - INFO - NewNow API - 快牛财经: 30 条新闻
+2025-09-21 16:00:12,315 - INFO - NewNow API - 金十数据: 15 条新闻
+2025-09-21 16:00:12,357 - INFO - NewNow API - 考普网: 30 条新闻
+2025-09-21 16:00:12,407 - INFO - Web Scraper - 爱范儿: 0 条新闻
+2025-09-21 16:00:12,478 - INFO - Web Scraper - 人民网: 0 条新闻
+2025-09-21 16:00:12,479 - INFO - NewNow API - 财联社: 20 条新闻
+2025-09-21 16:00:12,565 - WARNING - RSS - 界面新闻 返回状态码: 404
+2025-09-21 16:00:12,895 - INFO - NewNow API - 今日头条: 30 条新闻
+2025-09-21 16:00:12,982 - INFO - RSS - 搜狐新闻: 30 条新闻
+2025-09-21 16:00:13,115 - INFO - NewNow API - 凤凰网: 12 条新闻
+2025-09-21 16:00:13,392 - INFO - Web Scraper - 界面新闻: 0 条新闻
+2025-09-21 16:00:13,394 - WARNING - RSS - 央视新闻 返回状态码: 404
+2025-09-21 16:00:13,481 - INFO - Web Scraper - 新华网: 0 条新闻
+2025-09-21 16:00:13,871 - INFO - RSS - 少数派: 10 条新闻
+2025-09-21 16:00:14,249 - INFO - NewNow API - 格隆汇: 15 条新闻
+2025-09-21 16:00:14,267 - INFO - Web Scraper - 央视新闻: 0 条新闻
+2025-09-21 16:00:14,363 - WARNING - RSS - 环球时报 返回状态码: 404
+2025-09-21 16:00:14,581 - WARNING - RSS - 金融界 返回状态码: 514
+2025-09-21 16:00:14,615 - WARNING - Web Scraper - 澎湃新闻 返回状态码: 403
+2025-09-21 16:00:14,684 - INFO - Web Scraper - 搜狐娱乐: 0 条新闻
+2025-09-21 16:00:14,855 - INFO - Web Scraper - 东方财富网: 0 条新闻
+2025-09-21 16:00:14,983 - INFO - Web Scraper - 中国网: 7 条新闻
+2025-09-21 16:00:15,078 - INFO - Web Scraper - 36氪: 0 条新闻
+2025-09-21 16:00:15,191 - INFO - RSS - 虎嗅: 10 条新闻
+2025-09-21 16:00:15,211 - INFO - RSS - 中国日报网: 30 条新闻
+2025-09-21 16:00:15,419 - WARNING - RSS - 中国经济周刊 返回状态码: 404
+2025-09-21 16:00:15,938 - INFO - RSS - 爱范儿: 20 条新闻
+2025-09-21 16:00:16,042 - INFO - Web Scraper - 网易娱乐: 0 条新闻
+2025-09-21 16:00:16,824 - INFO - NewNow API - IT之家: 30 条新闻
+2025-09-21 16:00:16,923 - INFO - Web Scraper - 华尔街见闻: 0 条新闻
+2025-09-21 16:00:17,143 - INFO - Web Scraper - 虎嗅: 0 条新闻
+2025-09-21 16:00:17,202 - INFO - Web Scraper - 搜狐新闻: 0 条新闻
+2025-09-21 16:00:17,334 - INFO - RSS - 腾讯新闻: 0 条新闻
+2025-09-21 16:00:17,519 - WARNING - Web Scraper - 金融界 返回状态码: 514
+2025-09-21 16:00:19,146 - INFO - Web Scraper - 时光网: 0 条新闻
+2025-09-21 16:00:19,551 - INFO - RSS - 凤凰网: 0 条新闻
+2025-09-21 16:00:21,738 - INFO - RSS - 路透中文网: 0 条新闻
+2025-09-21 16:00:22,228 - INFO - Web Scraper - 凤凰网: 0 条新闻
+2025-09-21 16:00:22,906 - INFO - Web Scraper - IT之家: 0 条新闻
+2025-09-21 16:00:22,931 - INFO - RSS - 36氪: 30 条新闻
+2025-09-21 16:00:30,485 - ERROR - RSS - 每日经济新闻 请求失败: 0, message='', url='https://www.nbd.com.cn/rss/'
+2025-09-21 16:00:33,397 - WARNING - RSS - 东方财富网 返回状态码: 404
+2025-09-21 16:00:35,359 - INFO - Web Scraper - ELLE中文网: 0 条新闻
+2025-09-21 16:00:39,668 - ERROR - RSS - 第一财经 请求失败: 
+2025-09-21 16:00:39,676 - INFO - 总共获取到 953 条新闻，来自 84 个源
+2025-09-21 16:00:39,679 - INFO - 共获取到 953 条新闻
+2025-09-21 16:00:39,679 - INFO - 开始分析关键词...
+2025-09-21 16:00:39,680 - DEBUG - Building prefix dict from the default dictionary ...
+2025-09-21 16:00:39,681 - DEBUG - Loading model from cache C:\Users\IT老菜鸟\AppData\Local\Temp\jieba.cache
+2025-09-21 16:00:39,958 - DEBUG - Loading model cost 0.278 seconds.
+2025-09-21 16:00:39,959 - DEBUG - Prefix dict has been built successfully.
+2025-09-21 16:00:40,232 - INFO - 使用自适应学习权重: {'frequency_weight': 0.382, 'trend_weight': 0.393, 'sentiment_weight': 0.225}
+2025-09-21 16:00:40,239 - INFO - 权重调整: {'frequency_weight': 0.382, 'trend_weight': 0.393, 'sentiment_weight': 0.225} -> {'frequency_weight': 0.378, 'trend_weight': 0.398, 'sentiment_weight': 0.225}
+2025-09-21 16:00:40,241 - INFO - 学习数据保存成功
+2025-09-21 16:00:40,241 - INFO - 学习引擎分析完成，更新权重: {'frequency_weight': 0.378, 'trend_weight': 0.398, 'sentiment_weight': 0.225}
+2025-09-21 16:00:40,241 - INFO - 自动发现 50 个关键词
+2025-09-21 16:00:40,241 - INFO - 生成报告...
+2025-09-21 16:00:40,245 - INFO - 报告已生成: output/smart_radar_20250921_160040.html, output/smart_radar_20250921_160040.json
+2025-09-21 16:00:40,246 - INFO - 通知功能未启用
+2025-09-21 16:09:30,496 - INFO - 历史学习数据加载成功
+2025-09-21 16:09:30,612 - INFO - SmartNewsRadar v1.0.0 启动
+2025-09-21 16:09:30,612 - INFO - 开始获取新闻数据...
+2025-09-21 16:09:31,495 - ERROR - RSS - IT之家科技 请求失败: Cannot connect to host rss.ithome.com:443 ssl:default [getaddrinfo failed]
+2025-09-21 16:09:31,629 - ERROR - Web Scraper - CNBeta 请求失败: Cannot connect to host www.cnbeta.com:443 ssl:default [getaddrinfo failed]
+2025-09-21 16:09:31,630 - ERROR - RSS - CNBeta 请求失败: Cannot connect to host www.cnbeta.com:443 ssl:default [getaddrinfo failed]
+2025-09-21 16:09:31,712 - WARNING - NewNow API - 快手热搜 返回状态码: 500
+2025-09-21 16:09:31,722 - WARNING - NewNow API - 光华喜 返回状态码: 500
+2025-09-21 16:09:31,805 - ERROR - RSS - 财新网 请求失败: Cannot connect to host rss.caixin.com:80 ssl:default [getaddrinfo failed]
+2025-09-21 16:09:31,914 - INFO - NewNow API - V2EX: 30 条新闻
+2025-09-21 16:09:31,922 - INFO - NewNow API - 虎扑社区: 30 条新闻
+2025-09-21 16:09:31,927 - INFO - NewNow API - 澎湃新闻: 20 条新闻
+2025-09-21 16:09:31,928 - INFO - NewNow API - Hacker News: 30 条新闻
+2025-09-21 16:09:32,002 - WARNING - NewNow API - Linux Do 返回状态码: 500
+2025-09-21 16:09:32,113 - INFO - NewNow API - 联合早报: 30 条新闻
+2025-09-21 16:09:32,114 - INFO - NewNow API - 牛客网: 21 条新闻
+2025-09-21 16:09:32,114 - INFO - NewNow API - GitHub趋势: 17 条新闻
+2025-09-21 16:09:32,136 - INFO - RSS - 网易新闻: 0 条新闻
+2025-09-21 16:09:32,159 - INFO - NewNow API - 百度热搜: 30 条新闻
+2025-09-21 16:09:32,173 - INFO - NewNow API - 考普网: 30 条新闻
+2025-09-21 16:09:32,195 - INFO - NewNow API - 财联社: 20 条新闻
+2025-09-21 16:09:32,197 - WARNING - NewNow API - 什么值得买 返回状态码: 500
+2025-09-21 16:09:32,200 - INFO - NewNow API - 少数派: 30 条新闻
+2025-09-21 16:09:32,205 - INFO - NewNow API - 俄罗斯卫星通讯社: 20 条新闻
+2025-09-21 16:09:32,275 - INFO - NewNow API - 雪球: 30 条新闻
+2025-09-21 16:09:32,389 - INFO - NewNow API - 远景论坛: 20 条新闻
+2025-09-21 16:09:32,397 - INFO - NewNow API - Product Hunt: 0 条新闻
+2025-09-21 16:09:32,404 - INFO - NewNow API - 掘金: 30 条新闻
+2025-09-21 16:09:32,407 - INFO - NewNow API - B站热搜: 30 条新闻
+2025-09-21 16:09:32,408 - INFO - NewNow API - Solidot: 20 条新闻
+2025-09-21 16:09:32,410 - INFO - NewNow API - 凤凰网: 12 条新闻
+2025-09-21 16:09:32,421 - INFO - NewNow API - 金十数据: 15 条新闻
+2025-09-21 16:09:32,476 - INFO - RSS - 新浪头条: 1 条新闻
+2025-09-21 16:09:32,480 - INFO - NewNow API - 酷安社区: 20 条新闻
+2025-09-21 16:09:32,639 - WARNING - NewNow API - 36氪 返回状态码: 500
+2025-09-21 16:09:32,710 - INFO - NewNow API - 参考消息: 30 条新闻
+2025-09-21 16:09:32,737 - INFO - NewNow API - 知乎热榜: 20 条新闻
+2025-09-21 16:09:32,777 - INFO - NewNow API - 市场新闻: 0 条新闻
+2025-09-21 16:09:32,839 - INFO - NewNow API - 抖音热搜: 30 条新闻
+2025-09-21 16:09:32,853 - INFO - NewNow API - 百度贴吧: 30 条新闻
+2025-09-21 16:09:32,897 - INFO - NewNow API - 格隆汇: 15 条新闻
+2025-09-21 16:09:33,116 - INFO - Web Scraper - 爱范儿: 0 条新闻
+2025-09-21 16:09:33,367 - INFO - NewNow API - 今日头条: 30 条新闻
+2025-09-21 16:09:33,503 - INFO - Web Scraper - 人民网: 0 条新闻
+2025-09-21 16:09:33,504 - WARNING - RSS - 网易科技 返回状态码: 404
+2025-09-21 16:09:33,505 - INFO - NewNow API - 快牛财经: 30 条新闻
+2025-09-21 16:09:33,912 - INFO - NewNow API - 虫部落: 30 条新闻
+2025-09-21 16:09:33,963 - INFO - RSS - 搜狐新闻: 30 条新闻
+2025-09-21 16:09:33,979 - INFO - Web Scraper - 腾讯新闻: 0 条新闻
+2025-09-21 16:09:34,195 - INFO - NewNow API - 华尔街见闻: 10 条新闻
+2025-09-21 16:09:34,392 - INFO - RSS - 新浪新闻: 15 条新闻
+2025-09-21 16:09:34,451 - WARNING - RSS - 环球时报 返回状态码: 404
+2025-09-21 16:09:34,492 - INFO - Web Scraper - 凤凰网: 0 条新闻
+2025-09-21 16:09:34,580 - INFO - Web Scraper - 36氪: 0 条新闻
+2025-09-21 16:09:34,670 - INFO - Web Scraper - 东方财富网: 0 条新闻
+2025-09-21 16:09:34,712 - WARNING - RSS - 界面新闻 返回状态码: 404
+2025-09-21 16:09:34,750 - WARNING - RSS - 央视新闻 返回状态码: 404
+2025-09-21 16:09:34,857 - INFO - Web Scraper - 央视新闻: 0 条新闻
+2025-09-21 16:09:34,890 - INFO - Web Scraper - 界面新闻: 0 条新闻
+2025-09-21 16:09:34,930 - INFO - Web Scraper - 新华网: 0 条新闻
+2025-09-21 16:09:35,065 - INFO - Web Scraper - 网易娱乐: 0 条新闻
+2025-09-21 16:09:35,103 - WARNING - RSS - 中国经济周刊 返回状态码: 404
+2025-09-21 16:09:35,181 - WARNING - RSS - 金融界 返回状态码: 514
+2025-09-21 16:09:35,637 - INFO - Web Scraper - 搜狐娱乐: 0 条新闻
+2025-09-21 16:09:35,690 - INFO - NewNow API - IT之家: 30 条新闻
+2025-09-21 16:09:35,746 - INFO - Web Scraper - 搜狐新闻: 0 条新闻
+2025-09-21 16:09:35,831 - WARNING - Web Scraper - 澎湃新闻 返回状态码: 403
+2025-09-21 16:09:35,870 - INFO - Web Scraper - ELLE中文网: 0 条新闻
+2025-09-21 16:09:35,997 - INFO - Web Scraper - 华尔街见闻: 0 条新闻
+2025-09-21 16:09:36,117 - INFO - RSS - 少数派: 10 条新闻
+2025-09-21 16:09:36,298 - INFO - Web Scraper - 中国网: 7 条新闻
+2025-09-21 16:09:36,299 - WARNING - RSS - 第一财经 返回状态码: 404
+2025-09-21 16:09:36,501 - INFO - RSS - 凤凰网: 0 条新闻
+2025-09-21 16:09:36,641 - INFO - NewNow API - 微博热搜: 30 条新闻
+2025-09-21 16:09:36,767 - INFO - RSS - 中国日报网: 30 条新闻
+2025-09-21 16:09:37,288 - INFO - Web Scraper - 时光网: 0 条新闻
+2025-09-21 16:09:37,288 - WARNING - Web Scraper - 金融界 返回状态码: 514
+2025-09-21 16:09:37,632 - INFO - Web Scraper - IT之家: 0 条新闻
+2025-09-21 16:09:37,759 - INFO - RSS - 虎嗅: 10 条新闻
+2025-09-21 16:09:39,206 - INFO - RSS - 南华早报: 30 条新闻
+2025-09-21 16:09:40,895 - INFO - Web Scraper - 虎嗅: 0 条新闻
+2025-09-21 16:09:41,223 - INFO - RSS - 路透中文网: 0 条新闻
+2025-09-21 16:09:41,249 - INFO - RSS - 36氪: 30 条新闻
+2025-09-21 16:09:41,622 - INFO - RSS - 腾讯新闻: 0 条新闻
+2025-09-21 16:09:44,061 - WARNING - RSS - 东方财富网 返回状态码: 404
+2025-09-21 16:09:53,011 - ERROR - RSS - 每日经济新闻 请求失败: 0, message='', url='https://www.nbd.com.cn/rss/'
+2025-09-21 16:10:00,662 - ERROR - RSS - 爱范儿 请求失败: 
+2025-09-21 16:10:00,667 - INFO - 总共获取到 933 条新闻，来自 84 个源
+2025-09-21 16:10:00,674 - INFO - 共获取到 933 条新闻
+2025-09-21 16:10:00,674 - INFO - 开始分析关键词...
+2025-09-21 16:10:00,675 - DEBUG - Building prefix dict from the default dictionary ...
+2025-09-21 16:10:00,676 - DEBUG - Loading model from cache C:\Users\IT老菜鸟\AppData\Local\Temp\jieba.cache
+2025-09-21 16:10:00,980 - DEBUG - Loading model cost 0.304 seconds.
+2025-09-21 16:10:00,980 - DEBUG - Prefix dict has been built successfully.
+2025-09-21 16:10:01,241 - INFO - 使用自适应学习权重: {'frequency_weight': 0.378, 'trend_weight': 0.398, 'sentiment_weight': 0.225}
+2025-09-21 16:10:01,249 - INFO - 权重调整: {'frequency_weight': 0.378, 'trend_weight': 0.398, 'sentiment_weight': 0.225} -> {'frequency_weight': 0.372, 'trend_weight': 0.399, 'sentiment_weight': 0.229}
+2025-09-21 16:10:01,251 - INFO - 学习数据保存成功
+2025-09-21 16:10:01,251 - INFO - 学习引擎分析完成，更新权重: {'frequency_weight': 0.372, 'trend_weight': 0.399, 'sentiment_weight': 0.229}
+2025-09-21 16:10:01,251 - INFO - 自动发现 50 个关键词
+2025-09-21 16:10:01,252 - INFO - 生成报告...
+2025-09-21 16:10:01,255 - INFO - 报告已生成: output/smart_radar_20250921_161001.html, output/smart_radar_20250921_161001.json
+2025-09-21 16:10:01,256 - INFO - 通知功能未启用
