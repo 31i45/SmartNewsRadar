@@ -2,6 +2,8 @@
 
 热点新闻与关键词分析系统
 
+`python smart_radar.py`
+
 <img width="1417" height="1253" alt="屏幕截图 2025-09-24 100658" src="https://github.com/user-attachments/assets/d35c0827-3d07-4f39-9e23-87b65d6461da" />
 
 <img width="2560" height="1368" alt="屏幕截图 2025-09-24 100315" src="https://github.com/user-attachments/assets/a643ab89-bb99-4b55-bb02-cb5915e24076" />
