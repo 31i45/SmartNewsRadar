@@ -1,3 +1,14 @@
+#  智能新闻雷达
+
+热点新闻与关键词分析系统
+
+<img width="1417" height="1253" alt="屏幕截图 2025-09-24 100658" src="https://github.com/user-attachments/assets/d35c0827-3d07-4f39-9e23-87b65d6461da" />
+
+<img width="2560" height="1368" alt="屏幕截图 2025-09-24 100315" src="https://github.com/user-attachments/assets/a643ab89-bb99-4b55-bb02-cb5915e24076" />
+
+<img width="2560" height="1368" alt="屏幕截图 2025-09-24 100326" src="https://github.com/user-attachments/assets/413ba3de-79ee-4b4b-9f93-00acb57df05a" />
+
+<img width="2560" height="1368" alt="屏幕截图 2025-09-24 100351" src="https://github.com/user-attachments/assets/9a5ae7bc-12e9-4dc8-bb24-9c37ac6358a4" />
 
 ## 📊 核心功能详解
 
