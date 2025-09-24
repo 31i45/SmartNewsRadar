@@ -1,0 +1,21 @@
+# SmartNewsRadar - 智能新闻关键词发现系统配置
+# 专注本质，简化配置
+
+# 核心配置
+core:
+  max_keywords: 50         # 最多提取的关键词数量
+  timeout: 30              # 全局超时时间(秒)
+  
+# 学习引擎配置
+learning:
+  enabled: true          # 是否启用学习功能
+  history_days: 14       # 保留历史数据的天数
+  auto_optimize: true    # 是否自动优化
+  
+# 数据源配置说明
+# 注意：详细数据源配置已移至news_sources.json文件
+
+# 展示配置
+presentation:
+  generate_json: true
+  days_to_keep_reports: 7

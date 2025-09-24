@@ -1,0 +1,457 @@
+{
+  "description": "新闻源配置",
+  "type_defaults": {
+    "newsnow_api": true,
+    "rss": false,
+    "web_scraper": false
+  },
+  "news_sources": {
+    "newsnow_api": [
+      {
+        "id": "weibo",
+        "name": "微博热搜",
+        "url": "https://newsnow.busiyi.world/api/s?id=weibo&latest"
+      },
+      {
+        "id": "douyin",
+        "name": "抖音热搜",
+        "url": "https://newsnow.busiyi.world/api/s?id=douyin&latest"
+      },
+      {
+        "id": "kuaishou",
+        "name": "快手热搜",
+        "url": "https://newsnow.busiyi.world/api/s?id=kuaishou&latest"
+      },
+      {
+        "id": "tieba",
+        "name": "百度贴吧",
+        "url": "https://newsnow.busiyi.world/api/s?id=tieba&latest"
+      },
+      {
+        "id": "coolapk",
+        "name": "酷安社区",
+        "url": "https://newsnow.busiyi.world/api/s?id=coolapk&latest"
+      },
+      {
+        "id": "hupu",
+        "name": "虎扑社区",
+        "url": "https://newsnow.busiyi.world/api/s?id=hupu&latest"
+      },
+      {
+        "id": "toutiao",
+        "name": "今日头条",
+        "url": "https://newsnow.busiyi.world/api/s?id=toutiao&latest"
+      },
+      {
+        "id": "ifeng",
+        "name": "凤凰网",
+        "url": "https://newsnow.busiyi.world/api/s?id=ifeng&latest"
+      },
+      {
+        "id": "thepaper",
+        "name": "澎湃新闻",
+        "url": "https://newsnow.busiyi.world/api/s?id=thepaper&latest"
+      },
+      {
+        "id": "cankaoxiaoxi",
+        "name": "参考消息",
+        "url": "https://newsnow.busiyi.world/api/s?id=cankaoxiaoxi&latest"
+      },
+      {
+        "id": "zaobao",
+        "name": "联合早报",
+        "url": "https://newsnow.busiyi.world/api/s?id=zaobao&latest"
+      },
+      {
+        "id": "wallstreetcn",
+        "name": "华尔街见闻",
+        "url": "https://newsnow.busiyi.world/api/s?id=wallstreetcn-hot&latest"
+      },
+      {
+        "id": "_36kr",
+        "name": "36氪",
+        "url": "https://newsnow.busiyi.world/api/s?id=_36kr&latest"
+      },
+      {
+        "id": "xueqiu",
+        "name": "雪球",
+        "url": "https://newsnow.busiyi.world/api/s?id=xueqiu&latest"
+      },
+      {
+        "id": "gelonghui",
+        "name": "格隆汇",
+        "url": "https://newsnow.busiyi.world/api/s?id=gelonghui&latest"
+      },
+      {
+        "id": "fastbull",
+        "name": "快牛财经",
+        "url": "https://newsnow.busiyi.world/api/s?id=fastbull&latest"
+      },
+      {
+        "id": "jin10",
+        "name": "金十数据",
+        "url": "https://newsnow.busiyi.world/api/s?id=jin10&latest"
+      },
+      {
+        "id": "mktnews",
+        "name": "市场新闻",
+        "url": "https://newsnow.busiyi.world/api/s?id=mktnews&latest"
+      },
+      {
+        "id": "ithome",
+        "name": "IT之家",
+        "url": "https://newsnow.busiyi.world/api/s?id=ithome&latest"
+      },
+      {
+        "id": "juejin",
+        "name": "掘金",
+        "url": "https://newsnow.busiyi.world/api/s?id=juejin&latest"
+      },
+      {
+        "id": "sspai",
+        "name": "少数派",
+        "url": "https://newsnow.busiyi.world/api/s?id=sspai&latest"
+      },
+      {
+        "id": "smzdm",
+        "name": "什么值得买",
+        "url": "https://newsnow.busiyi.world/api/s?id=smzdm&latest"
+      },
+      {
+        "id": "chongbuluo",
+        "name": "虫部落",
+        "url": "https://newsnow.busiyi.world/api/s?id=chongbuluo&latest"
+      },
+      {
+        "id": "pcbeta",
+        "name": "远景论坛",
+        "url": "https://newsnow.busiyi.world/api/s?id=pcbeta&latest"
+      },
+      {
+        "id": "github",
+        "name": "GitHub趋势",
+        "url": "https://newsnow.busiyi.world/api/s?id=github&latest"
+      },
+      {
+        "id": "v2ex",
+        "name": "V2EX",
+        "url": "https://newsnow.busiyi.world/api/s?id=v2ex&latest"
+      },
+      {
+        "id": "linuxdo",
+        "name": "Linux Do",
+        "url": "https://newsnow.busiyi.world/api/s?id=linuxdo&latest"
+      },
+      {
+        "id": "hackernews",
+        "name": "Hacker News",
+        "url": "https://newsnow.busiyi.world/api/s?id=hackernews&latest"
+      },
+      {
+        "id": "zhihu",
+        "name": "知乎热榜",
+        "url": "https://newsnow.busiyi.world/api/s?id=zhihu&latest"
+      },
+      {
+        "id": "nowcoder",
+        "name": "牛客网",
+        "url": "https://newsnow.busiyi.world/api/s?id=nowcoder&latest"
+      },
+      {
+        "id": "kaopu",
+        "name": "考普网",
+        "url": "https://newsnow.busiyi.world/api/s?id=kaopu&latest"
+      },
+      {
+        "id": "bilibili",
+        "name": "B站热搜",
+        "url": "https://newsnow.busiyi.world/api/s?id=bilibili-hot-search&latest"
+      },
+      {
+        "id": "ghxi",
+        "name": "光华喜",
+        "url": "https://newsnow.busiyi.world/api/s?id=ghxi&latest"
+      },
+      {
+        "id": "baidu",
+        "name": "百度热搜",
+        "url": "https://newsnow.busiyi.world/api/s?id=baidu&latest"
+      },
+      {
+        "id": "producthunt",
+        "name": "Product Hunt",
+        "url": "https://newsnow.busiyi.world/api/s?id=producthunt&latest"
+      },
+      {
+        "id": "solidot",
+        "name": "Solidot",
+        "url": "https://newsnow.busiyi.world/api/s?id=solidot&latest"
+      },
+      {
+        "id": "sputniknewscn",
+        "name": "俄罗斯卫星通讯社",
+        "url": "https://newsnow.busiyi.world/api/s?id=sputniknewscn&latest"
+      },
+      {
+        "id": "cls",
+        "name": "财联社",
+        "url": "https://newsnow.busiyi.world/api/s?id=cls&latest"
+      }
+    ],
+    "rss": [
+      {
+        "id": "sina_news",
+        "name": "新浪新闻",
+        "url": "http://rss.sina.com.cn/news/allnews/sports.xml"
+      },
+      {
+        "id": "sina_headlines",
+        "name": "新浪头条",
+        "url": "http://rss.sina.com.cn/news/marquee/ddt.xml"
+      },
+      {
+        "id": "163_news",
+        "name": "网易新闻",
+        "url": "http://news.163.com/special/00011K6L/rss_newstop.xml"
+      },
+      {
+        "id": "163_tech",
+        "name": "网易科技",
+        "url": "http://tech.163.com/special/00097UHL/tech_datalist.xml"
+      },
+      {
+        "id": "qq_news",
+        "name": "腾讯新闻",
+        "url": "https://news.qq.com/newsgn/rss_newsgn.xml"
+      },
+      {
+        "id": "sohu_news",
+        "name": "搜狐新闻",
+        "url": "http://news.sohu.com/rss/guonei.xml"
+      },
+      {
+        "id": "ifeng_news",
+        "name": "凤凰网",
+        "url": "https://news.ifeng.com/rss/index.xml"
+      },
+      {
+        "id": "caixin",
+        "name": "财新网",
+        "url": "http://rss.caixin.com/blog/rss.xml"
+      },
+      {
+        "id": "36kr",
+        "name": "36氪",
+        "url": "https://36kr.com/feed"
+      },
+      {
+        "id": "huxiu",
+        "name": "虎嗅",
+        "url": "https://www.huxiu.com/rss/0.xml"
+      },
+      {
+        "id": "nbd",
+        "name": "每日经济新闻",
+        "url": "https://www.nbd.com.cn/rss/"
+      },
+      {
+        "id": "yicai",
+        "name": "第一财经",
+        "url": "https://m.yicai.com/rss/yicaihome.xml"
+      },
+      {
+        "id": "eastmoney",
+        "name": "东方财富网",
+        "url": "https://finance.eastmoney.com/rss/default.xml"
+      },
+      {
+        "id": "jrj",
+        "name": "金融界",
+        "url": "https://www.jrj.com.cn/rss/jryw.xml"
+      },
+      {
+        "id": "cnbeta",
+        "name": "CNBeta",
+        "url": "https://www.cnbeta.com/backend.php"
+      },
+      {
+        "id": "ithome_tech",
+        "name": "IT之家科技",
+        "url": "https://rss.ithome.com/rss/ithome.xml"
+      },
+      {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/feed"
+      },
+      {
+        "id": "sspai",
+        "name": "少数派",
+        "url": "https://sspai.com/feed"
+      },
+      {
+        "id": "cctv",
+        "name": "央视新闻",
+        "url": "https://news.cctv.com/rss/news.shtml"
+      },
+      {
+        "id": "jiemian",
+        "name": "界面新闻",
+        "url": "https://a.jiemian.com/index.php/Api/Rss/getList/cid/1"
+      },
+      {
+        "id": "ecns",
+        "name": "中国日报网",
+        "url": "https://www.ecns.cn/rss/rss.xml"
+      },
+      {
+        "id": "ceweekly",
+        "name": "中国经济周刊",
+        "url": "https://www.ceweekly.cn/feed/"
+      },
+      {
+        "id": "globaltimes",
+        "name": "环球时报",
+        "url": "https://www.globaltimes.cn/rss/china.xml"
+      },
+      {
+        "id": "scmp",
+        "name": "南华早报",
+        "url": "https://www.scmp.com/rss/4/feed"
+      },
+      {
+        "id": "reuters_cn",
+        "name": "路透中文网",
+        "url": "https://cn.reuters.com/rssFeed/CNAheadlinesNews"
+      }
+    ],
+    "web_scraper": [
+      {
+        "id": "qq_news",
+        "name": "腾讯新闻",
+        "url": "https://news.qq.com/",
+        "selector": ".Q-tpWrap .linkto"
+      },
+      {
+        "id": "sohu_news",
+        "name": "搜狐新闻",
+        "url": "https://news.sohu.com/",
+        "selector": ".news-text h4 a"
+      },
+      {
+        "id": "ifeng",
+        "name": "凤凰网",
+        "url": "https://news.ifeng.com/",
+        "selector": ".news_1 a"
+      },
+      {
+        "id": "jiemian",
+        "name": "界面新闻",
+        "url": "https://www.jiemian.com/",
+        "selector": ".news-list .news-item h3 a"
+      },
+      {
+        "id": "people",
+        "name": "人民网",
+        "url": "http://www.people.com.cn/",
+        "selector": ".headlineNews a"
+      },
+      {
+        "id": "xinhua",
+        "name": "新华网",
+        "url": "http://www.xinhuanet.com/",
+        "selector": ".news-list li a"
+      },
+      {
+        "id": "china",
+        "name": "中国网",
+        "url": "https://www.china.com.cn/",
+        "selector": ".headline a"
+      },
+      {
+        "id": "cctv",
+        "name": "央视新闻",
+        "url": "https://news.cctv.com/",
+        "selector": ".cm-content a"
+      },
+      {
+        "id": "thepaper",
+        "name": "澎湃新闻",
+        "url": "https://www.thepaper.cn/",
+        "selector": ".news_title a"
+      },
+      {
+        "id": "eastmoney",
+        "name": "东方财富网",
+        "url": "https://finance.eastmoney.com/",
+        "selector": ".news_list .news_item a"
+      },
+      {
+        "id": "jrj",
+        "name": "金融界",
+        "url": "https://www.jrj.com.cn/",
+        "selector": ".news-list a"
+      },
+      {
+        "id": "wallstreetcn",
+        "name": "华尔街见闻",
+        "url": "https://wallstreetcn.com/",
+        "selector": ".news-item__title a"
+      },
+      {
+        "id": "huxiu",
+        "name": "虎嗅",
+        "url": "https://www.huxiu.com/",
+        "selector": ".article-item-title a"
+      },
+      {
+        "id": "ithome",
+        "name": "IT之家",
+        "url": "https://www.ithome.com/",
+        "selector": ".news_title a"
+      },
+      {
+        "id": "cnbeta",
+        "name": "CNBeta",
+        "url": "https://www.cnbeta.com/",
+        "selector": ".title h2 a"
+      },
+      {
+        "id": "ifanr",
+        "name": "爱范儿",
+        "url": "https://www.ifanr.com/",
+        "selector": ".article-title a"
+      },
+      {
+        "id": "36kr",
+        "name": "36氪",
+        "url": "https://36kr.com/",
+        "selector": ".article-item-title a"
+      },
+      {
+        "id": "ent163",
+        "name": "网易娱乐",
+        "url": "https://ent.163.com/",
+        "selector": ".main-news a"
+      },
+      {
+        "id": "sohu_ent",
+        "name": "搜狐娱乐",
+        "url": "https://yule.sohu.com/",
+        "selector": ".news-item-title a"
+      },
+      {
+        "id": "mtime",
+        "name": "时光网",
+        "url": "https://www.mtime.com/",
+        "selector": ".news-item h3 a"
+      },
+      {
+        "id": "elle",
+        "name": "ELLE中文网",
+        "url": "https://www.ellechina.com/",
+        "selector": ".article-title a"
+      }
+    ]
+  }
+}
